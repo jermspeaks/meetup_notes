@@ -4,7 +4,7 @@ Date: June 14th, 2016
 
 ## Dataviz for non-data folk
 
-Presenter: TBA
+Presenter: Siena Duplan, Twitter: [@SienaDuplan](https://twitter.com/SienaDuplan)
 
 ## Presentation Notes
 

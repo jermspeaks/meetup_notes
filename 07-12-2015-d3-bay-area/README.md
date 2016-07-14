@@ -26,7 +26,6 @@ Location: The Port Workspaces 101
 > Making complex D3js visualizations will follow the talk.
 
 
-> Our main speaker is Brian Smith, co-founder of [Numeracy](https://numeracy.co/), 
 > who will cover the primary sources of complexity in data preparation 
 > and some useful principles for dodging them.
 > Getting good data for your visualization can sometimes be half the battle, 
@@ -38,3 +37,16 @@ Location: The Port Workspaces 101
 > Anticipate a rousing Q&A!
 
 ## Meeting Notes
+
+- [Link to Brian's talk](https://docs.google.com/document/d/12XcjUVRyZWBDhY5o4VCITIWRXsK2sgVQxNi1eCsCLzM/edit)
+- [Hadley Wickham talks about Tidy Data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
+- Ian shared a new feature with [block builder](http://blockbuilder.org/search) where you can filter by which version of d3 projects are using
+
+Name dropping:
+
+Met Ugo from last meet-up who's a PM for an environmental company.
+
+Also met someone from the UK. Name's eluding me.
+
+Again, thanks for Robert Crocker for hosting.
+

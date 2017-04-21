@@ -15,3 +15,8 @@ Clicking on the star shows the vacant lot
 
 If you want to make one for your city:
 https://github.com/596acres/django-livinglots
+
+## Similar Projects
+
+LA: https://laopenacres.org/
+

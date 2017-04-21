@@ -38,4 +38,4 @@ Societal Impacts and Challenge - cross between Linguistics, psychology, and Comp
 
 Lots of ethical considerations
 
-
+http://baugues.com/depression

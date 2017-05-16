@@ -23,3 +23,23 @@
 | 5:00            | Wrap for the day (dinner, etc., on your own)
 
 </div>
+
+## Notes
+
+### Keynote: Cyborgs Unite! (Karen Sandler)
+
+- Open source vs closed source software for medical devices
+- Cyborg - Having an implant like a pacemaker
+- She's part of the Software Freedom Conservancy, as we learned on Changelog interview
+https://changelog.com/podcast/238
+- Talk keeps getting morbid :)
+- She has a big heart, and her pacemaker needs to be replied
+- Trying to find a pacemaker without remote control over RFID
+- Medical doctor, representative, customer support, engineer -- what software is it written in?
+- CyborgA
+
+### jq functional language (Charles Chamberlain)
+
+- Not just a way of querying through json
+- Functional language without needing to deal with the types
+

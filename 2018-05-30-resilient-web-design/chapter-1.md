@@ -1,6 +1,8 @@
 # Resilient Web Design
 ## Chapter 1 Foundations
 
+### Notes
+
 > These echoes of the past reverberate in the present even when their usefulness has been outlived. You’ll still sometimes see a user interface that displays an icon of a Compact Disc or vinyl record to represent music. That same interface might use the image of a 3½ inch floppy disk to represent the concept of saving data. The reason why floppy disks wound up being 3½ inches in size is because the disk was designed to fit into a shirt pocket. The icons in our software interfaces are whispering stories to us from the history of clothing and fashion.
 
 World Wide Web as a rounding error to those in cosmotology. Tim Berners-Lee developed it at CERN while his supervisor awarded Tim time, remarking, "vague, but interesting." 
@@ -25,3 +27,10 @@ Under the heading "Next ID", Tim Burners-Lee wrote:
 > Browser software may ignore this tag.
 
 For browsers that did not understand some of these tags, this decision would have far-reaching consequences for the future of the World Wide Web.
+
+### References
+
+- [Information Management: A proposal](https://www.w3.org/History/1989/proposal.html) by Tim Berners-Lee
+- [Telecom Maps](https://www.telegeography.com/telecom-maps/index.html) by TeleGeography
+- [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by Vannevar Bush
+- [HTML Tags](http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html)
